@@ -1,4 +1,4 @@
-# GALICIAN LANGUAGE FILE. FICHEIRO IDIOMA GALEGO.
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Susana Magán, 2019.
@@ -28,11 +28,11 @@ msgstr "Algúns exemplos:"
 
 #: prefs.js:78
 msgid "The time in 24-hour notation (14:50)"
-msgstr "A hora en formato 24 horas (14:50 am BST)"
+msgstr "Hora en formato 24 horas (14:50 am BST)"
 
 #: prefs.js:79
 msgid "The time in 12-hour notation with seconds (2:50:10 pm)"
-msgstr "A hora en formato 12 horas con segundos (2:50:10 pm)"
+msgstr "Hora en formato 12 horas con segundos (2:50:10 pm)"
 
 #: prefs.js:80
 msgid "A bell"
@@ -44,7 +44,7 @@ msgstr "Emoji dun reloxo"
 
 #: prefs.js:82
 msgid "Slow time (quarters as fractions)"
-msgstr "Escala de tempo lento (cuartos como fracciones)"
+msgstr "Escala de tempo lento (cuartos coma fraccións)"
 
 #: prefs.js:83
 msgid "ISO date and time (2014-01-30T14:50:10)"
