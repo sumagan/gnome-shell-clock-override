@@ -1,0 +1,68 @@
+# GALICIAN LANGUAGE FILE. FICHEIRO IDIOMA GALEGO.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Susana Magán, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GNOME Shell Extension Clock Override\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-15 18:48+0200\n"
+"PO-Revision-Date: 2018-08-04 11:10+0200\n"
+"Last-Translator: Susana Magán \n"
+"Language-Team: Susana Magán \n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+
+#: prefs.js:51
+msgid "Text to display instead of the clock"
+msgstr "Texto para amosar en vez do reloxo"
+
+#: prefs.js:64
+msgid "Some examples:"
+msgstr "Algúns exemplos:"
+
+#: prefs.js:78
+msgid "The time in 24-hour notation (14:50)"
+msgstr "A hora en formato 24 horas (14:50 am BST)"
+
+#: prefs.js:79
+msgid "The time in 12-hour notation with seconds (2:50:10 pm)"
+msgstr "A hora en formato 12 horas con segundos (2:50:10 pm)"
+
+#: prefs.js:80
+msgid "A bell"
+msgstr "Unha campá"
+
+#: prefs.js:81
+msgid "An emoji clock face"
+msgstr "Emoji dun reloxo"
+
+#: prefs.js:82
+msgid "Slow time (quarters as fractions)"
+msgstr "Escala de tempo lento (cuartos como fracciones)"
+
+#: prefs.js:83
+msgid "ISO date and time (2014-01-30T14:50:10)"
+msgstr "Data e hora formato ISO (2014-01-30T04:27:00)"
+
+#: prefs.js:84
+msgid "Local and Internet time"
+msgstr "Hora local e de Internet"
+
+#: prefs.js:85
+msgid "Something sillier"
+msgstr "Algunha paxarada"
+
+#: prefs.js:85
+msgid "It is %M minutes past hour %H"
+msgstr "Son as %H e %M minutos"
+
+#: prefs.js:120
+#, javascript-format
+msgid "What do all these %x codes mean?"
+msgstr "¿Que raio son estes códigos %x?"
